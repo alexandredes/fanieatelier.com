@@ -1,0 +1,56 @@
+body {
+  color:#fff;
+margin:0;background:#0a0a09;
+padding:0;
+  padding-bottom: 120px;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
+h2 {
+  color:#90908f;
+  font-weight: normal;
+  margin:0;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 3px;
+  line-height: 1;
+  margin-top:40px;
+}
+
+h1 {
+font-family: 'Song Myung', serif;
+font-weight: normal;
+color:#fff;
+margin:15px 0 25px 0;
+  line-height: 1;
+}
+
+p {
+  color:#90908f;
+  margin:0 0 20px 0;
+font-family: 'Open Sans', sans-serif;
+font-size:15px;
+line-height: 1.5;
+max-width:550px;
+}
+
+a {
+  color:#fff;
+  transition:all 0.15s ease;
+}
+
+
+a:hover,
+a:focus,
+a:active {
+  color:rgba(255,255,255,.6);
+}
+
+a i {
+  margin-right: 20px;
+  font-size:20px;
+}
